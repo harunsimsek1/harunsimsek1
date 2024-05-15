@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
-<h3 align="center">Frontednd web developer</h3>
+<h3 align="center">Frontend web developer</h3>
 
 - 🔭 I’m currently working on **REACT OR NEXTJS (frontend web)**
 
